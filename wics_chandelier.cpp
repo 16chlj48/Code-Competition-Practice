@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-	int num;
+	int num, price;
 	cout << "input: ";
 	cin >> num;
 
@@ -17,7 +17,7 @@ int main() {
 				count++;
 			}
 		}
-		int price;
+
 		price = 100 * count;
 		cout << "Price: $" << price << endl;
 
