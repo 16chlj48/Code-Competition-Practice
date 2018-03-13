@@ -1,2 +1,2 @@
 # Code-Competition-Practice
-Practice problems for coding competitions 
+Practice code problems and snippets for coding competitions in c++, java, or python.
